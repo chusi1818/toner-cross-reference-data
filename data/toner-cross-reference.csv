@@ -558,7 +558,7 @@ Q5942X,HP,Mono,Global (excl. JP),with chip,20000,4250; 4250N; 4250TN; 4250DTN; 4
 106R01415,Xerox,Mono,LA/RU/AU/CN,with chip,10000,3435DN,1,/products/106r01415
 331-7328,Dell,Mono,NA / EU / AU,with chip,2500,B1260dn; B1265dnf,2,/products/331-7328
 MLT-D115L,Samsung,Mono,NA / EU / Asia,with chip,3000,SL-M2620; SL-M2820; M2670; M2870,4,/products/mlt-d115l
-MLT-D111S,Samsung,Mono,NA / EU / Asia,with chip,1000,SL-M2020; SL-M2020W; SL-M2022FW; SL-M2022W; SL-M2070FW; SL-M2070W,6,/products/mlt-d111s
+MLT-D111S,Samsung,Mono,NA / EU / Asia,with chip,1000,SL-M2020; SL-M2020W; SL-M2022FW; SL-M2022W; SL-M2070FW; SL-M2070W; 179fn,7,/products/mlt-d111s
 MLT-D111L,Samsung,Mono,NA / EU / Asia,with chip,2000,SL-M2020; SL-M2020W; SL-M2022FW; SL-M2022W; SL-M2070FW; SL-M2070W,6,/products/mlt-d111l
 MLT-D101S,Samsung,Mono,NA / EU / Asia,with chip,1500,ML-2160; ML-2161; ML-2165W; ML-2162; ML-2165; ML-2166; ML-2168; ML-2164; ML-2164W; ML-2167; ML-2168W; SCX-3400; SCX-3405; SCX-3405W; SCX-3405FW; SCX-3407; SCX-3400F; SCX-3405F; SF-760P,19,/products/mlt-d101s
 E260A11A,Lexmark,Mono,CA/EUR/MEA/Africa/RU/A…,with chip,3500,E260d; E260dn; E360d; E360dn; E460dn; E460dw; E462dtn,7,/products/e260a11a
@@ -1188,13 +1188,13 @@ CT202248,Fuji Xerox,Magenta,AP/ME,with chip,3000,SC2020; SC2020NW,2,/products/ct
 CT202249,Fuji Xerox,Yellow,AP/ME,with chip,3000,SC2020; SC2020NW,2,/products/ct202249
 106R02651,Xerox,Mono,RU,with chip,11000,3325; 3315,2,/products/106r02651
 C-EXV49 BK,Canon,Black,EMEA,with chip,36000,C3020; C3320; C3320F; C3320L; C3325; C3330; C3520; C3520i; C3525; C3525i; C3530; C3530i,12,/products/c-exv49-bk
-C-EXV49 C,Canon,Cyan,EMEA,with chip,19000,C3020; C3320; C3320F; C3320L; C3325; C3330; C3520; C3520i; C3525; C3525i; C3530; C3530i,12,/products/c-exv-49-c
-C-EXV49 M,Canon,Magenta,EMEA,with chip,19000,C3020; C3320; C3320F; C3320L; C3325; C3330; C3520; C3520i; C3525; C3525i; C3530; C3530i,12,/products/c-exv-49-m
-C-EXV49 Y,Canon,Yellow,EMEA,with chip,19000,C3020; C3320; C3320F; C3320L; C3325; C3330; C3520; C3520i; C3525; C3525i; C3530; C3530i,12,/products/c-exv-49-y
-NPG67 BK,Canon,Black,Asia Pacific,with chip,36000,C3020; C3320; C3320F; C3320L; C3325; C3330; C3520; C3520i; C3525; C3525i; C3530; C3530i,12,/products/npg-67-bk
-NPG67 C,Canon,Cyan,Asia Pacific,with chip,19000,C3020; C3320; C3320F; C3320L; C3325; C3330; C3520; C3520i; C3525; C3525i; C3530; C3530i,12,/products/npg-67-c
-NPG67 M,Canon,Magenta,Asia Pacific,with chip,19000,C3020; C3320; C3320F; C3320L; C3325; C3330; C3520; C3520i; C3525; C3525i; C3530; C3530i,12,/products/npg-67-m
-NPG67 Y,Canon,Yellow,Asia Pacific,with chip,19000,C3020; C3320; C3320F; C3320L; C3325; C3330; C3520; C3520i; C3525; C3525i; C3530; C3530i,12,/products/npg-67-y
+C-EXV49 C,Canon,Cyan,EMEA,with chip,19000,C3020; C3320; C3320F; C3320L; C3325; C3330; C3520; C3520i; C3525; C3525i; C3530; C3530i; C35,13,/products/c-exv-49-c
+C-EXV49 M,Canon,Magenta,EMEA,with chip,19000,C3020; C3320; C3320F; C3320L; C3325; C3330; C3520; C3520i; C3525; C3525i; C3530; C3530i; C35,13,/products/c-exv-49-m
+C-EXV49 Y,Canon,Yellow,EMEA,with chip,19000,C3020; C3320; C3320F; C3320L; C3325; C3330; C3520; C3520i; C3525; C3525i; C3530; C3530i; C35,13,/products/c-exv-49-y
+NPG67 BK,Canon,Black,Asia Pacific,with chip,36000,C3020; C3320; C3320F; C3320L; C3325; C3330; C3520; C3520i; C3525; C3525i; C3530; C3530i; C35,13,/products/npg-67-bk
+NPG67 C,Canon,Cyan,Asia Pacific,with chip,19000,C3020; C3320; C3320F; C3320L; C3325; C3330; C3520; C3520i; C3525; C3525i; C3530; C3530i; C35,13,/products/npg-67-c
+NPG67 M,Canon,Magenta,Asia Pacific,with chip,19000,C3020; C3320; C3320F; C3320L; C3325; C3330; C3520; C3520i; C3525; C3525i; C3530; C3530i; C35,13,/products/npg-67-m
+NPG67 Y,Canon,Yellow,Asia Pacific,with chip,19000,C3020; C3320; C3320F; C3320L; C3325; C3330; C3520; C3520i; C3525; C3525i; C3530; C3530i; C35,13,/products/npg-67-y
 W2060A,HP,Black,Americas,with chip,1000,179fnw; 178nw; 150nw,3,/products/w2060a
 W2061A,HP,Cyan,Americas,with chip,700,179fnw; 178nw; 150nw,3,/products/w2061a
 W2062A,HP,Yellow,Americas,with chip,700,179fnw; 178nw; 150nw,3,/products/w2062a
@@ -2202,8 +2202,8 @@ TK-5445KC,Kyocera,Cyan,KOR,with chip,2400,PA2100cx; PA2100cwx; MA2100cfx; MA2100
 TK-5445KM,Kyocera,Magenta,KOR,with chip,2400,PA2100cx; PA2100cwx; MA2100cfx; MA2100cwfx,4,/products/tk-5445km
 TK-5445KY,Kyocera,Yellow,KOR,with chip,2400,PA2100cx; PA2100cwx; MA2100cfx; MA2100cwfx,4,/products/tk-5445ky
 TK-5234KK,Kyocera,Black,KOR,with chip,2600,P5021cdn; P5021cdw; M5521cdn; M5521cdw,4,/products/tk-5234kk
-TK-5234KM,Kyocera,Magenta,KOR,with chip,2200,P5021cdn; P5021cdw; M5521cdn; M5521cdw,4,/products/tk-5234k-m
-TK-5234KY,Kyocera,Yellow,KOR,with chip,2200,P5021cdn; P5021cdw; M5521cdn; M5521cdw,4,/products/tk-5234k-y
+TK-5234KM,Kyocera,Magenta,KOR,with chip,3000,P5021cdn; P5021cdw; M5521cdn; M5521cdw,4,/products/tk-5234k-m
+TK-5234KY,Kyocera,Yellow,KOR,with chip,3000,P5021cdn; P5021cdw; M5521cdn; M5521cdw,4,/products/tk-5234k-y
 TN-3600,Brother,Mono,Europe,without chip,3000,HL-L5210DN; L5210DW; L5215DN; L6210DW; L6410DN; L6415DN; DCP-L5510DW; MFC-L5710DN; L5710DW; L5715DN; L6710DW; L6910DN; L6915DN; EX910,14,/products/tn-3600
 TN-3600XL,Brother,Mono,Europe,without chip,6000,HL-L5210DN; L5210DW; L5215DN; L6210DW; L6410DN; L6415DN; DCP-L5510DW; MFC-L5710DN; L5710DW; L5715DN; L6710DW; L6910DN; L6915DN; EX910,14,/products/tn-3600xl
 TN-3600XXL,Brother,Mono,Europe,without chip,11000,HL-L5210DN; L5210DW; L5215DN; L6210DW; L6410DN; L6415DN; DCP-L5510DW; MFC-L5710DN; L5710DW; L5715DN; L6710DW; L6910DN; L6915DN; EX910,14,/products/tn-3600xxl
@@ -2282,8 +2282,8 @@ TN-3602XL,Brother,Mono,LA（Brasil）,with chip,6000,DCP-L5512DN; DCP-L5662DN; M
 TN-3602XXL,Brother,Mono,LA（Brasil）,with chip,11000,DCP-L5512DN; DCP-L5662DN; MFC-L5912DW; MFC-L6912DW,4,/products/tn-3602xxl
 TN-3612,Brother,Mono,LA（Brasil）,with chip,18000,DCP-L5512DN; DCP-L5662DN; MFC-L5912DW; MFC-L6912DW,4,/products/tn-3612
 TN-3612XL,Brother,Mono,LA（Brasil）,with chip,25000,DCP-L5512DN; DCP-L5662DN; MFC-L5912DW; MFC-L6912DW,4,/products/tn-3612xl
-TN2530,Brother,Mono,AU,with chip,1200,HL-L2400DW; L2445DW; L2460DW; L2865DW; L2464DW; L2480DW; DCP-L2640DW; MFC-L2800DW; L2820DW; L2880DW; L2920DW,11,/products/tn-2530
-TN2530XL,Brother,Mono,AU,with chip,3000,HL-L2400DW; L2445DW; L2460DW; L2865DW; L2464DW; L2480DW; DCP-L2640DW; MFC-L2800DW; L2820DW; L2880DW; L2920DW,11,/products/tn-2530xl
+TN2530,Brother,Mono,AU,with chip,1200,HL-L2400DW; L2445DW; L2460DW; L2865DW; L2464DW; L2480DW; DCP-L2640DW; MFC-L2800DW; L2820DW; L2880DW; L2920DW; DCP-L2640D,12,/products/tn-2530
+TN2530XL,Brother,Mono,AU,with chip,3000,HL-L2400DW; L2445DW; L2460DW; L2865DW; L2464DW; L2480DW; DCP-L2640DW; MFC-L2800DW; L2820DW; L2880DW; L2920DW; DCP-L2640D,12,/products/tn-2530xl
 TN-830,Brother,Mono,North America,with chip,1200,HL-L2400D; L2405W; L2420DW; L2460DW; L2460DWXL; L2465DW; L2480DW; L2865DW; DCP-L2640DW; L2660DW; MFC-L2760DW; L2807DW; L2820DW; L2820DWXL,14,/products/tn-830
 TN-830XL,Brother,Mono,North America,with chip,3000,HL-L2400D; L2405W; L2420DW; L2460DW; L2460DWXL; L2465DW; L2480DW; L2865DW; DCP-L2640DW; L2660DW; MFC-L2760DW; L2807DW; L2820DW; L2820DWXL,14,/products/tn-830xl
 TN-2560,Brother,Mono,Asia Pacific,with chip,1200,HL-L2400D; L2440DW; L2460DN; L2460DW; DCP-L2640DW; L2680DW; MFC-L2805DW; L2885DW,8,/products/tn-2560
@@ -2529,14 +2529,14 @@ TK-5244KK,Kyocera,Black,KOR,with chip,4000,P5021cdn; P5021cdw; M5521cdn; M5521cd
 TK-5244KC,Kyocera,Cyan,KOR,with chip,3000,P5021cdn; P5021cdw; M5521cdn; M5521cdw,4,/products/tk-5244k-c
 TK-5244KM,Kyocera,Magenta,KOR,with chip,3000,P5021cdn; P5021cdw; M5521cdn; M5521cdw,4,/products/tk-5244k-m
 TK-5244KY,Kyocera,Yellow,KOR,with chip,3000,P5021cdn; P5021cdw; M5521cdn; M5521cdw,4,/products/tk-5244k-y
-TK8360KK,Kyocera,Black,KOR,with chip,25000,251ci; 2554ciG,2,/products/tk-8360kk
-TK8360KC,Kyocera,Cyan,KOR,with chip,12000,251ci; 2554ciG,2,/products/tk-8360kc
-TK8360KM,Kyocera,Magenta,KOR,with chip,12000,251ci; 2554ciG,2,/products/tk-8360km
-TK8360KY,Kyocera,Yellow,KOR,with chip,12000,251ci; 2554ciG,2,/products/tk-8360ky
+TK8360KK,Kyocera,Black,KOR,with chip,30000,251ci; 2554ciG,2,/products/tk-8360kk
+TK8360KC,Kyocera,Cyan,KOR,with chip,20000,251ci; 2554ciG,2,/products/tk-8360kc
+TK8360KM,Kyocera,Magenta,KOR,with chip,20000,251ci; 2554ciG,2,/products/tk-8360km
+TK8360KY,Kyocera,Yellow,KOR,with chip,20000,251ci; 2554ciG,2,/products/tk-8360ky
 TK8339KBK,Kyocera,Black,KOR,with chip,25000,3252; 3253ci,2,/products/tk8339kbk
-TK8339KC,Kyocera,Cyan,KOR,with chip,15000,3252; 3253ci,2,/products/tk-8339kc
-TK8339KM,Kyocera,Magenta,KOR,with chip,15000,3252; 3253ci,2,/products/tk-8339km
-TK8339KY,Kyocera,Yellow,KOR,with chip,15000,3252; 3253ci,2,/products/tk-8339ky
+TK8339KC,Kyocera,Cyan,KOR,with chip,20000,3252; 3253ci,2,/products/tk-8339kc
+TK8339KM,Kyocera,Magenta,KOR,with chip,20000,3252; 3253ci,2,/products/tk-8339km
+TK8339KY,Kyocera,Yellow,KOR,with chip,20000,3252; 3253ci,2,/products/tk-8339ky
 TK8119BK,Kyocera,Black,AU,with chip,12000,M8124cidn; M8130cidn,2,/products/tk8119bk
 TK8119C,Kyocera,Cyan,AU,with chip,6000,M8124cidn; M8130cidn,2,/products/tk8119c
 TK8119M,Kyocera,Magenta,AU,with chip,6000,M8124cidn; M8130cidn,2,/products/tk8119m
@@ -4044,7 +4044,6 @@ DR-730,Brother,,,without chip,12000,HL-L2370DW; HL-L2390DW; HL-L2395DW; DCP-L255
 DR-730(NA),Brother,,,without chip,12000,HL-L2370DW; HL-L2390DW; HL-L2395DW; DCP-L2550DW; HL-L2350DW,5,/products/dr-730-na
 DR-820,Brother,,,without chip,30000,HL-L5000D; L5100DN; L5200DW; L5200DWT; L6200DW; L6200DWT; DCP-L5500DN; L5600DN,8,/products/dr-820
 DR-B020,Brother,,,without chip,12000,HL-B2080DW; DCP-B7520DW; MFC-B7715DW; HL-B2000D; HL-B2050DN; DCP-B7500D,6,/products/dr-b020
-NPG67 BK,Canon,,,with chip,36000,C3020; C3320; C3320F; C3320L; C3325; C3330; C3520; C3520i; C35,9,/products/npg67-bk
 CE314A,HP,,,with chip,14000,M176n; M177fw; CP1025; CP100,4,/products/ce314a
 CF258A(58A),HP,,,with chip,3000,M304; M404n; M404dn; M404dw; M428dw; M428fdn; M428fdw,7,/products/cf258a-58a
 CF460X(656X),HP,,,with chip,27000,M652n; M652dn; M653dn; M653x; M653dh,5,/products/cf460x-656x
@@ -4090,9 +4089,6 @@ TN328 C,Konica Minolta,,,with chip,28000,C258; C308; C368,3,/products/tn328-c
 TN328 M,Konica Minolta,,,with chip,28000,C258; C308; C368,3,/products/tn328-m
 TN328 Y,Konica Minolta,,,with chip,28000,C258; C308; C368,3,/products/tn328-y
 TK1170,Kyocera,,,with chip,7200,M2040DN; M2540DN; M2640IDW,3,/products/tk1170
-TK5230C,Kyocera,,,with chip,2200,P5021cdn; P5021cdw; M5521cdn; M5521cdw,4,/products/tk5230c
-TK5230M,Kyocera,,,with chip,2200,P5021cdn; P5021cdw; M5521cdn; M5521cdw,4,/products/tk5230m
-TK5230Y,Kyocera,,,with chip,2200,P5021cdn; P5021cdw; M5521cdn; M5521cdw,4,/products/tk5230y
 44574307,OKI,,,with chip,25000,B401; MB441; MB451,3,/products/44574307
 418477(IM 600),Ricoh,,,with chip,25500,800; 801; 550F; 600F; 600SRF,5,/products/418477-im-600
 MLT-R116,Samsung,,,with chip,9000,SL-M2625; SL-M2626; SL-M2825; SL-M2826; M2675; M2676; M2875; M2876; M2885,9,/products/mlt-r116
@@ -4170,14 +4166,8 @@ TN-2210+DR-2200,Brother,,,without chip,12000,HL-2130; HL-2132; HL-2240; HL-2240D
 TN-2385,Brother,,,without chip,,HL-2560DN; HL-2260; HL-L2321; HL-L2361DN; HL-L2366; DCP-7180DN; DCP-7080; MFC-7480D; MFC-7380; MFC-7880,10,/products/tn-2385
 TN-2420+DR-2400,Brother,,,with chip,12000,HL-L2310D; L2350DW; L2357DW; L2370DN; L2375DW; DCP-L2510D; L2530DW; L2537DW; L25,9,/products/tn-2420-dr-2400
 TN-3480+DR-3400,Brother,,,without chip,30000,HL-L5000D; L5100DN; L5200DW; L5200DWT; L6200DW; L6200DWT; L6250DW; L6300DW; L640,9,/products/tn-3480-dr-3400
-TN2375,Brother,,,without chip,2600,HL-L2300DR; L2340DWR; L2360DNR; L2365DWR,4,/products/tn2375
-TN2530,Brother,,,with chip,1200,HL-L2400DW; L2445DW; L2460DW; L2865DW; L2464DW; L2480DW; DCP-L2640D,7,/products/tn2530
-TN2530XL,Brother,,,with chip,3000,HL-L2400DW; L2445DW; L2460DW; L2865DW; L2464DW; L2480DW; DCP-L2640D,7,/products/tn2530xl
 069,Canon,,,without chip,,,0,/products/069
 C-EXV 49 K,Canon,,,without chip,36000,C3020; C3320; C3320F; C3320L; C3325; C3330; C3520; C3520i; C35,9,/products/c-exv-49-k
-C-EXV49 C,Canon,,,with chip,19000,C3020; C3320; C3320F; C3320L; C3325; C3330; C3520; C3520i; C35,9,/products/c-exv49-c
-C-EXV49 M,Canon,,,with chip,19000,C3020; C3320; C3320F; C3320L; C3325; C3330; C3520; C3520i; C35,9,/products/c-exv49-m
-C-EXV49 Y,Canon,,,with chip,19000,C3020; C3320; C3320F; C3320L; C3325; C3330; C3520; C3520i; C35,9,/products/c-exv49-y
 CRG-049,Canon,,,with chip,12000,LBP113w; LBP112; MF112; MF113w,4,/products/crg-049
 EXV14,Canon,,,without chip,,IR2016; IR2016I; IR2016J; IR2018; IR2018I; IR2020; IR2020S; IR2020I; IR2020J; IR2022; IR2022I; IR2025; IR2030,13,/products/exv14
 GPR-18DRUM,Canon,,,without chip,55000,2318; 2320; 2420; 2016; 2020; 2116; 2120,7,/products/gpr-18drum
@@ -4189,26 +4179,11 @@ GPR53 BK,Canon,,,with chip,28800,C3320L; C3530; C3525; C3520; C3330; C3325; C332
 GPR53 C,Canon,,,with chip,15200,C3320L; C3530; C3525; C3520; C3330; C3325; C3320; C3835; C3826; C383,10,/products/gpr53-c
 GPR53 M,Canon,,,with chip,15200,C3320L; C3530; C3525; C3520; C3330; C3325; C3320; C3835; C3826; C383,10,/products/gpr53-m
 GPR53 Y,Canon,,,with chip,15200,C3320L; C3530; C3525; C3520; C3330; C3325; C3320; C3835; C3826; C383,10,/products/gpr53-y
-GPR61BK,Canon,,,with chip,71000,C5840i; C5850i; C5860i; C5870i,4,/products/gpr61bk
-GPR61C,Canon,,,with chip,60000,C5840i; C5850i; C5860i; C5870i,4,/products/gpr61c
-GPR61M,Canon,,,with chip,60000,C5840i; C5850i; C5860i; C5870i,4,/products/gpr61m
-GPR61Y,Canon,,,with chip,60000,C5840i; C5850i; C5860i; C5870i,4,/products/gpr61y
 MP2852-KIT,Canon,,,without chip,,C4000; C4001; C4002; C4500; C5000; C5001; C5002; C2000; C2500; C2800; C300; C3002,12,/products/mp2852-kit
 NPG-59,Canon,,,without chip,,1643iF; 1643i,2,/products/npg-59
 NPG-67DRUM,Canon,,,with chip,80000,C3320L; C3530; C3525; C3520; C3330; C3325; C3320; C3835; C3826; C383,10,/products/npg-67drum
 NPG-71DRUM,Canon,,,with chip,,C5760; C5750; C5740; C5735; C5535; C5540; C5550; C5560,8,/products/npg-71drum
 NPG59 Drum Unit,Canon,,,without chip,60000,IR-2002; IR-2202,2,/products/npg59-drum-unit
-NPG67 C,Canon,,,with chip,19000,C3020; C3320; C3320F; C3320L; C3325; C3330; C3520; C3520i; C35,9,/products/npg67-c
-NPG67 M,Canon,,,with chip,19000,C3020; C3320; C3320F; C3320L; C3325; C3330; C3520; C3520i; C35,9,/products/npg67-m
-NPG67 Y,Canon,,,with chip,19000,C3020; C3320; C3320F; C3320L; C3325; C3330; C3520; C3520i; C35,9,/products/npg67-y
-NPG83BK,Canon,,,with chip,71000,C5840i; C5850i; C5860i; C5870i,4,/products/npg83bk
-NPG83C,Canon,,,with chip,60000,C5840i; C5850i; C5860i; C5870i,4,/products/npg83c
-NPG83M,Canon,,,with chip,60000,C5840i; C5850i; C5860i; C5870i,4,/products/npg83m
-NPG83Y,Canon,,,with chip,60000,C5840i; C5850i; C5860i; C5870i,4,/products/npg83y
-Toner T12 Black,Canon,,,without chip,7400,XC1333F; C1333i; XC1333P,3,/products/toner-t12-black
-Toner T12 Cyan,Canon,,,without chip,5300,XC1333F; C1333i; XC1333P,3,/products/toner-t12-cyan
-Toner T12 Magenta,Canon,,,without chip,5300,XC1333F; C1333i; XC1333P,3,/products/toner-t12-magenta
-Toner T12 Yellow,Canon,,,without chip,5300,XC1333F; C1333i; XC1333P,3,/products/toner-t12-yellow
 593-BBKE,Dell,,,without chip,12000,E310dw; E514dw; E515dw,3,/products/593-bbke-724-bbjs-724-bbjr
 DF3110,Gestetner,,,without chip,,GS3021C; GS3020C; GS3030C,3,/products/df3110
 218,HP,,,without chip,,3201; 3202; 3203; 3288; 3301; 3302; 3303; 3388,8,/products/218
@@ -4296,7 +4271,6 @@ W9044MC,HP,,,with chip,100000,E77825dn; E77830dn; E77422; E77428; E77822; E77825
 W9054MC,HP,,,with chip,,E87640; E87650; E87660,3,/products/w9054mc
 W9055MC,HP,,,with chip,,E87640; E87650; E87660,3,/products/w9055mc
 W9215MC,HP,,,with chip,60000,E78323; E78325; E78330Z; E78330dn; E78323Z; E78,6,/products/w9215mc
-无,HP,,,without chip,,,0,/products/ch5942u
 DR-133,Katusha,,,with chip,30000,P133; M133,2,/products/dr-133
 PCM-130,Katusha,,,with chip,12000,P130; M130,2,/products/pcm-130
 DR-313C,Konica Minolta,,,with chip,,C308; C368; C458; C558; C658,5,/products/dr-313c
@@ -4323,39 +4297,21 @@ TK1130-300g,Kyocera,,,without chip,,FS-1030MFP; FS-1130MF; FS-1130MFP; FS-1130DP
 TK1150-1000g,Kyocera,,,without chip,,M2135DN; M2635DN; M2735DW; P2235D; P2235DN; P2235DW,6,/products/tk1150-1000g
 TK1150-300g,Kyocera,,,without chip,,M2135DN; M2635DN; M2735DW; P2235D; P2235DN; P2235DW,6,/products/tk1150-300g
 TK3182-1000g,Kyocera,,,without chip,,P3055dn,1,/products/tk3182-1000g
-TK-1200,Kyocera,,,with chip,3000,P2335d; P2335dn; P2335dw; M2235dn; M2735dn; M2835dw,6,/products/tk-1200
 TK-4100,Kyocera,,,without chip,,FS-4100DN; FS-4200DN; P3045dn; P3050dn; P3055dn; P3060dn; P6130cdn; P6035cdn,8,/products/tk-4100
-TK-5140M,Kyocera,,,with chip,5000,M6030cdn; M6530cdn; P6130cdn,3,/products/tk-5140m
-TK-5140Y,Kyocera,,,with chip,5000,M6030cdn; M6530cdn; P6130cdn,3,/products/tk-5140y
 TK-5144KBK,Kyocera,,,with chip,7000,M6030cdn; M6530cdn; P6130cdn,3,/products/tk-5144kbk
 TK-5144KC,Kyocera,,,with chip,5000,M6030cdn; M6530cdn; P6130cdn,3,/products/tk-5144kc
 TK-5144KM,Kyocera,,,with chip,5000,M6030cdn; M6530cdn; P6130cdn,3,/products/tk-5144km
 TK-5144KY,Kyocera,,,with chip,5000,M6030cdn; M6530cdn; P6130cdn,3,/products/tk-5144ky
 TK-5195 BK,Kyocera,,,with chip,15000,306ci,1,/products/tk-5195-bk
-TK-5195C,Kyocera,,,with chip,7000,306ci,1,/products/tk-5195c
-TK-5195M,Kyocera,,,with chip,7000,306ci,1,/products/tk-5195m
-TK-5195Y,Kyocera,,,with chip,7000,306ci,1,/products/tk-5195y
 TK-5205BK,Kyocera,,,with chip,18000,356ci,1,/products/tk-5205bk
-TK-5205C,Kyocera,,,with chip,12000,356ci,1,/products/tk-5205c
-TK-5205M,Kyocera,,,with chip,12000,356ci,1,/products/tk-5205m
-TK-5205Y,Kyocera,,,with chip,12000,356ci,1,/products/tk-5205y
 TK-5220BK,Kyocera,,,without chip,,P5021cdn; P5021cdw; M5521cdn; M5521cdw,4,/products/tk-5220bk
 TK-5220C,Kyocera,,,without chip,,P5021cdn; P5021cdw; M5521cdn; M5521cdw,4,/products/tk-5220c
 TK-5220M,Kyocera,,,without chip,,P5021cdn; P5021cdw; M5521cdn; M5521cdw,4,/products/tk-5220m
 TK-5220Y,Kyocera,,,without chip,,P5021cdn; P5021cdw; M5521cdn; M5521cdw,4,/products/tk-5220y
 TK-5234KC,Kyocera,,,with chip,3000,P5021cdn; P5021cdw; M5521cdn; M5521cdw,4,/products/tk-5234kc
-TK-5234KM,Kyocera,,,with chip,3000,P5021cdn; P5021cdw; M5521cdn; M5521cdw,4,/products/tk-5234km
-TK-5234KY,Kyocera,,,with chip,3000,P5021cdn; P5021cdw; M5521cdn; M5521cdw,4,/products/tk-5234ky
 TK-5240C,Kyocera,,,with chip,3000,P5026cdn; P5026cdw; M5526cdn; M5526cdw,4,/products/tk-5240c
 TK-5240M,Kyocera,,,with chip,3000,P5026cdn; P5026cdw; M5526cdn; M5526cdw,4,/products/tk-5240m
 TK-5240Y,Kyocera,,,with chip,3000,P5026cdn; P5026cdw; M5526cdn; M5526cdw,4,/products/tk-5240y
-TK-5244KC,Kyocera,,,with chip,3000,P5021cdn; P5021cdw; M5521cdn; M5521cdw,4,/products/tk-5244kc
-TK-5244KM,Kyocera,,,with chip,3000,P5021cdn; P5021cdw; M5521cdn; M5521cdw,4,/products/tk-5244km
-TK-5244KY,Kyocera,,,with chip,3000,P5021cdn; P5021cdw; M5521cdn; M5521cdw,4,/products/tk-5244ky
-TK-5280C,Kyocera,,,with chip,11000,P6235cdn; M6235cidn; M6635cidn,3,/products/tk-5280c
-TK-5280K,Kyocera,,,with chip,13000,P6235cdn; M6235cidn; M6635cidn,3,/products/tk-5280k
-TK-5280M,Kyocera,,,with chip,11000,P6235cdn; M6235cidn; M6635cidn,3,/products/tk-5280m
-TK-5280Y,Kyocera,,,with chip,11000,P6235cdn; M6235cidn; M6635cidn,3,/products/tk-5280y
 TK-7220K,Kyocera,,,with chip,35000,4012i,1,/products/tk-7220k
 TK-8335BK,Kyocera,,,with chip,25000,3252ci,1,/products/tk-8335bk
 TK-8335C,Kyocera,,,with chip,15000,3252ci,1,/products/tk-8335c
@@ -4367,12 +4323,10 @@ TK1160,Kyocera,,,with chip,7200,P2040,1,/products/tk1160
 TK1162,Kyocera,,,with chip,7200,P2040,1,/products/tk1162
 TK1164,Kyocera,,,with chip,7200,P2040,1,/products/tk1164
 TK1166,Kyocera,,,with chip,7200,P2040,1,/products/tk1166
-TK3060,Kyocera,,,with chip,14500,M3145idn; M3645idn,2,/products/tk3060
 TK3100,Kyocera,,,with chip,12500,FS-2100D; FS-2100DN,2,/products/tk3100
 TK3110,Kyocera,,,with chip,15500,FS-4100DN,1,/products/tk3110
 TK3130,Kyocera,,,with chip,25000,FS-4200DN; FS-4300DN,2,/products/tk3130
 TK3160,Kyocera,,,with chip,12500,P3045dn; P3050dn; P3055dn; P3060dn,4,/products/tk3160
-TK3170,Kyocera,,,with chip,15500,P3050dn; P3055dn; P3060dn,3,/products/tk3170
 TK3190,Kyocera,,,with chip,25000,P3055dn; P3060dn,2,/products/tk3190
 TK5140BK,Kyocera,,,with chip,7000,M6030cdn; M6530cdn; P6130cdn,3,/products/tk5140bk
 TK5140C,Kyocera,,,with chip,5000,M6030cdn; M6530cdn; P6130cdn,3,/products/tk5140c
@@ -4380,26 +4334,12 @@ TK5150BK,Kyocera,,,with chip,12000,M6035cidn; M6535cidn; P6035cdn,3,/products/tk
 TK5150C,Kyocera,,,with chip,10000,M6035cidn; M6535cidn; P6035cdn,3,/products/tk5150c
 TK5150M,Kyocera,,,with chip,10000,M6035cidn; M6535cidn; P6035cdn,3,/products/tk5150m
 TK5150Y,Kyocera,,,with chip,10000,M6035cidn; M6535cidn; P6035cdn,3,/products/tk5150y
-TK5234BK,Kyocera,,,with chip,2600,P5021cdn; P5021cdw; M5521cdn; M5521cdw,4,/products/tk5234bk
-TK5234C,Kyocera,,,with chip,2200,P5021cdn; P5021cdw; M5521cdn; M5521cdw,4,/products/tk5234c
-TK5234KBK,Kyocera,,,with chip,2600,M5521CDN; M5521CDW; P5021CDN; P5021CDW,4,/products/tk5234kbk
-TK5234KC,Kyocera,,,with chip,2200,M5521CDN; M5521CDW; P5021CDN; P5021CDW,4,/products/tk5234kc
 TK5234KM,Kyocera,,,with chip,2200,M5521CDN; M5521CDW; P5021CDN; P5021CDW,4,/products/tk5234km
 TK5234KY,Kyocera,,,with chip,2200,M5521CDN; M5521CDW; P5021CDN; P5021CDW,4,/products/tk5234ky
-TK5234M,Kyocera,,,with chip,2200,P5021cdn; P5021cdw; M5521cdn; M5521cdw,4,/products/tk5234m
-TK5234Y,Kyocera,,,with chip,2200,P5021cdn; P5021cdw; M5521cdn; M5521cdw,4,/products/tk5234y
 TK5240 BK,Kyocera,,,without chip,4000,P5026cdn; P5026cdw; M5526cdn; M5526cdw,4,/products/tk5240-bk
 TK5240 C,Kyocera,,,without chip,3000,P5026cdn; P5026cdw; M5526cdn; M5526cdw,4,/products/tk5240-c
 TK5240 M,Kyocera,,,without chip,3000,P5026cdn; P5026cdw; M5526cdn; M5526cdw,4,/products/tk5240-m
 TK5240 Y,Kyocera,,,without chip,3000,P5026cdn; P5026cdw; M5526cdn; M5526cdw,4,/products/tk5240-y
-TK5242BK,Kyocera,,,with chip,4000,P5026cdn; P5026cdw; M5526cdn; M5526cdw,4,/products/tk5242bk
-TK5242C,Kyocera,,,with chip,3000,P5026cdn; P5026cdw; M5526cdn; M5526cdw,4,/products/tk5242c
-TK5242M,Kyocera,,,with chip,3000,P5026cdn; P5026cdw; M5526cdn; M5526cdw,4,/products/tk5242m
-TK5242Y,Kyocera,,,with chip,3000,P5026cdn; P5026cdw; M5526cdn; M5526cdw,4,/products/tk5242y
-TK5244BK,Kyocera,,,with chip,4000,P5026cdn; P5026cdw; M5526cdn; M5526cdw,4,/products/tk5244bk
-TK5244C,Kyocera,,,with chip,3000,P5026cdn; P5026cdw; M5526cdn; M5526cdw,4,/products/tk5244c
-TK5244M,Kyocera,,,with chip,3000,P5026cdn; P5026cdw; M5526cdn; M5526cdw,4,/products/tk5244m
-TK5244Y,Kyocera,,,with chip,3000,P5026cdn; P5026cdw; M5526cdn; M5526cdw,4,/products/tk5244y
 TK5270BK,Kyocera,,,with chip,8000,P6230cdn; M6230cidn; M6630cidn,3,/products/tk5270bk
 TK5270C,Kyocera,,,with chip,6000,P6230cdn; M6230cidn; M6630cidn,3,/products/tk5270c
 TK5270M,Kyocera,,,with chip,6000,P6230cdn; M6230cidn; M6630cidn,3,/products/tk5270m
@@ -4412,16 +4352,7 @@ TK5290BK,Kyocera,,,with chip,17000,P7240cdn,1,/products/tk5290bk
 TK5290C,Kyocera,,,with chip,13000,P7240cdn,1,/products/tk5290c
 TK5290M,Kyocera,,,with chip,13000,P7240cdn,1,/products/tk5290m
 TK5290Y,Kyocera,,,with chip,13000,P7240cdn,1,/products/tk5290y
-TK6119,Kyocera,,,with chip,15000,M4125idn; M4132idn,2,/products/tk6119
-TK6325,Kyocera,,,with chip,33000,4002i; 5002i; 6002i,3,/products/tk6325
 TK7235,Kyocera,,,with chip,35000,MZ4000i,1,/products/tk7235
-TK8339KC,Kyocera,,,with chip,20000,3252; 3253ci,2,/products/tk8339kc
-TK8339KM,Kyocera,,,with chip,20000,3252; 3253ci,2,/products/tk8339km
-TK8339KY,Kyocera,,,with chip,20000,3252; 3253ci,2,/products/tk8339ky
-TK8360KC,Kyocera,,,with chip,20000,251ci; 2554ciG,2,/products/tk8360kc
-TK8360KK,Kyocera,,,with chip,30000,251ci; 2554ciG,2,/products/tk8360kk
-TK8360KM,Kyocera,,,with chip,20000,251ci; 2554ciG,2,/products/tk8360km
-TK8360KY,Kyocera,,,with chip,20000,251ci; 2554ciG,2,/products/tk8360ky
 TK8365C,Kyocera,,,with chip,20000,2554ci,1,/products/tk8365c
 TK8365M,Kyocera,,,with chip,20000,2554ci,1,/products/tk8365m
 TK8365Y,Kyocera,,,with chip,20000,2554ci,1,/products/tk8365y
@@ -4437,22 +4368,6 @@ TK8365Y,Kyocera,,,with chip,20000,2554ci,1,/products/tk8365y
 44844408,OKI,,,with chip,30000,C822; C831; C841,3,/products/44844408
 C301,OKI,,,without chip,,C301; C3100; C312; C3200; C321; C330; C3300; C331; C3400; C3530; C3600; C510; C5100N,13,/products/c301
 C710,OKI,,,without chip,,,0,/products/c710
-CTL2000C,Pantum,,,with chip,1500,CP2200DW; CM2200FDW,2,/products/ctl2000c
-CTL2000HC,Pantum,,,with chip,3500,CP2200DW; CM2200FDW,2,/products/ctl2000hc
-CTL2000HK,Pantum,,,with chip,3500,CP2200DW; CM2200FDW,2,/products/ctl2000hk
-CTL2000HM,Pantum,,,with chip,3500,CP2200DW; CM2200FDW,2,/products/ctl2000hm
-CTL2000HY,Pantum,,,with chip,3500,CP2200DW; CM2200FDW,2,/products/ctl2000hy
-CTL2000K,Pantum,,,with chip,1500,CP2200DW; CM2200FDW,2,/products/ctl2000k
-CTL2000M,Pantum,,,with chip,1500,CP2200DW; CM2200FDW,2,/products/ctl2000m
-CTL2000Y,Pantum,,,with chip,1500,CP2200DW; CM2200FDW,2,/products/ctl2000y
-CTL2200C,Pantum,,,with chip,,CP2250DN; CM2270ADN,2,/products/ctl2200c
-CTL2200HC,Pantum,,,with chip,,CP2250DN; CM2270ADN,2,/products/ctl2200hc
-CTL2200HK,Pantum,,,with chip,,CP2250DN; CM2270ADN,2,/products/ctl2200hk
-CTL2200HM,Pantum,,,with chip,,CP2250DN; CM2270ADN,2,/products/ctl2200hm
-CTL2200HY,Pantum,,,with chip,,CP2250DN; CM2270ADN,2,/products/ctl2200hy
-CTL2200K,Pantum,,,with chip,,CP2250DN; CM2270ADN,2,/products/ctl2200k
-CTL2200M,Pantum,,,with chip,,CP2250DN; CM2270ADN,2,/products/ctl2200m
-CTL2200Y,Pantum,,,with chip,,CP2250DN; CM2270ADN,2,/products/ctl2200y
 DL-410,Pantum,,,with chip,25000,P3010DW; P3300DW; M6700DW; M6800FDW; M7100DW; M7200FDW; M7300FDW; M7310DN; M7310D,9,/products/dl-410
 DL-412,Pantum,,,with chip,25000,P3302DN; P3302DW; P3308DW; M7102DN; M7102DW; M7108DW,6,/products/dl-412
 DL-413,Pantum,,,with chip,25000,P3305DN; M7105DN,2,/products/dl-413
@@ -4504,7 +4419,6 @@ SP230H(408294),Ricoh,,,without chip,3000,230; 230FNw; 230SFNw,3,/products/sp230h
 SP230L(408195),Ricoh,,,without chip,1200,230; 230FNw; 230SFNw,3,/products/sp230l-408195
 CLT-R406,Samsung,,,without chip,16000,SL-C435; SL-C436; SL-C485; SL-C486; SL-C422; SL-C423; SL-420W; SL-422W; SL-C423W,9,/products/clt-r406
 MLT-101S,Samsung,,,without chip,1500,ML-2160; ML-2161; ML-2165W; ML-2162; ML-2165; ML-2166; ML-2168; ML-2164,8,/products/mlt-101s
-MLT-D111S,Samsung,,,with chip,700,SL-M2020; SL-M2020W; SL-M2022FW; SL-M2022W; SL-M2070FW; SL-M2070W; 179fn,7,/products/mlt-d111s-w2070a
 MLT-D1660,Samsung,,,without chip,,,0,/products/mlt-d1660
 MLT-D3320,Samsung,,,without chip,,SL-M4020; M4070,2,/products/mlt-d3320
 MLT-R204,Samsung,,,with chip,30000,SL-M3325; SL-M3825; SL-M4025; M3375; M3875; M4075,6,/products/mlt-r204
@@ -4531,11 +4445,6 @@ CT351053,Xerox,,,with chip,76000,SC2020; SC2021; SC2022,3,/products/ct351053
 CT351055,Xerox,,,without chip,12000,P225; P265dw; M225dw; M225z; M265z,5,/products/ct351055
 CT351088,Xerox,,,with chip,80000,C2263; C2265,2,/products/ct351088
 CT351108,Xerox,,,with chip,,C3370; C3371; C4471; C5571; C6671; C7771; C2271,7,/products/ct351108
-W1620A,HP,,,not specified,,4007dn; 4113,2,/products/hp-w1620-series
-W1590A,HP,Black,Worldwide,not specified,,5501; 5601; 5602,3,/products/hp-w1590-series
-W1590A,HP,Black,Worldwide,not specified,,5501; 5502; 5601; 5602,4,/products/hp-laserjet-enterprise-5501-5502-mfp-5601-5602-toner
-W1610A,HP,,,not specified,,4006dn; 4006dw; 4112,3,/products/hp-laserjet-pro-4006-4007-4008-toner
-CF289A,HP,,,not specified,,M507n; M507dn; M507X; M507dng; M528dn; M528f,6,/products/hp-laserjet-enterprise-m507-mfp-m528-toner
 W2400A,HP,,,not specified,,4701dw; 4701dn; 4801f; 4801fw,4,/products/hp-240a-240x-toner-series
 W1600A,HP,,,with chip,,6500dn; 6500n; 6501dn; 6600dn; 6600zfw,5,/products/hp-160a-160x-160y-toner-series
 W1840A,HP,Black,CA,with chip,1050,M220; M246,2,/products/hp-w1840a-w1840x-toner-series
