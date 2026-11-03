@@ -1,6 +1,6 @@
 # Toner Cartridge Cross-Reference Dataset
 
-A free, machine-readable cross-reference between **printer models** and **compatible toner / copier cartridges**, covering 4,514 cartridge families and 4,797 printer models across 25 printer brands.
+A free, machine-readable cross-reference between **printer models** and **compatible toner / copier cartridges**, covering 4,514 cartridge families and 4,796 printer models across 25 printer brands.
 
 Maintained by [Chusi Print](https://chusiprint.com) — a B2B sourcing partner for compatible printer consumables based in Zhuhai, China.
 
@@ -34,7 +34,7 @@ Compatibility data is normally locked inside vendor catalogues or scattered acro
 ## Coverage at a glance
 
 - 4,514 cartridge families
-- 4,797 distinct printer models
+- 4,796 distinct printer models
 - 25 printer brands
 - 3,497 families ship with a chip, 507 without, the remainder unspecified
 - Largest brand groups: Kyocera (878), HP (648), Lexmark (643), Brother (498), Xerox (388), Canon (366), Ricoh (269), Pantum (200)
